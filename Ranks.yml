@@ -49,6 +49,7 @@ Groups:
     - essentials.warp
     - essentials.warp.list
     - essentials.chat.url
+    - easysetspawn.spawn
     interance: []
     prefix: '&6[&aMember&r&6]'
     chatColor: RESET
@@ -71,6 +72,9 @@ Groups:
     - essentials.warn
     - essentials.mute
     - essentials.jail
+    - easysetspawn.help
+    - easysetspawn.info
+    - easysetspawn.reload
     interance: 'TrialStaff'
     prefix: '&6[&4&lMod&r&6]'
     chatColor: RESET
@@ -84,6 +88,11 @@ Groups:
     - essentials.mute
     - essentials.setjail
     - essentials.jail
+    - easysetspawn.setspawn
+    - easysetspawn.teleportothers
+    - easysetspawn.reload
+    - easysetspawn.info
+    - easysetspawn.help
     interance: 'Member'
     prefix: '&6[&4&lAdmin&r&6]'
     chatColor: RESET
