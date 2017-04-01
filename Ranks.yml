@@ -70,6 +70,7 @@ Groups:
     - essentials.kick
     - essentials.warn
     - essentials.mute
+    - essentials.jail
     interance: 'TrialStaff'
     prefix: '&6[&4&lMod&r&6]'
     chatColor: RESET
@@ -81,7 +82,9 @@ Groups:
     - essentials.warn
     - essentials.tempban
     - essentials.mute
-    interance: []
+    - essentials.setjail
+    - essentials.jail
+    interance: 'Member'
     prefix: '&6[&4&lAdmin&r&6]'
     chatColor: RESET
     nameColor: RESET
